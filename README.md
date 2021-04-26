@@ -32,7 +32,7 @@
 
 - - -
 
-<p style="display: flex; flex-direction: row;">
+<p style="display: flex; flex-direction: row; float: right;">
   <img width="500" src="https://metrics.lecoq.io/KevsonDoc" alt="Github Metrics">
   <img width="500" align='right' style="padding-left: 100px;" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevsonDoc&layout=compact&theme=tokyonight&langs_count=10&bg_color=151515">
 </p>
