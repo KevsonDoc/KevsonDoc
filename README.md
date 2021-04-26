@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hello There!
 
-<!--
-**KevsonDoc/KevsonDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='./doctor_dance.gif' width="250px" height="300px" style="object-fit: cover;">
+<p>
+  I’m Kevson Filipe, I’m glad you’re here. I live in Brasilia, Brazil. I am a software developer, software developer, computer technician and admirer of the best of Science and Technology. I am present in the projects HospTup, Kowworking and I am part of the Underground Devs initiative.
+</p>
 
-Here are some ideas to get you started:
+<p>
+  If you want to talk about science, technology, entrepreneurship, series, films and music these are my social networks
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://twitter.com/KFI1196" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/KFI1196?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
+  </a>
+  <a href="https://github.com/KevsonDoc" target="_blank">
+    <img src="https://img.shields.io/github/followers/KevsonDoc?color=%23000&label=KevsonDoc&logo=github&logoColor=%23000&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/kevson-filipe" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@kevsonfilipesantos" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:kevsonfilipesantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-kevsonfilipesantos@gmail.com-c14438?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevsonfilipesantos@gmail.com">
+  </a>
+  <a href="https://www.instagram.com/kevsonfilipe/" target="_blank">
+    <img src="https://img.shields.io/badge/-kevsonfilipe-c14438?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img width="500" src="https://metrics.lecoq.io/KevsonDoc" alt="Github Metrics">
+</p><br><br>
+
+
+<p align="center">
+  <img width="500" alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=KevsonDoc&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
+  <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevsonDoc&layout=compact&theme=tokyonight&langs_count=10&bg_color=151515">
+</p>
