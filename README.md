@@ -1,15 +1,15 @@
 # Hello There!
-
+<div>
 <img align='right' src='./doctor_dance.gif' width="250px" height="300px" style="object-fit: cover;">
-<p>
+<p style="padding-right: 270px;">
   I’m Kevson Filipe, I’m glad you’re here. I live in Brasilia, Brazil. I am a software developer, software developer, computer technician and admirer of the best of Science and Technology. I am present in the projects HospTup, Kowworking and I am part of the Underground Devs initiative.
 </p>
 
-<p>
+<p style="padding-right: 270px;">
   If you want to talk about science, technology, entrepreneurship, series, films and music these are my social networks
 </p>
-
-<p align="center">
+<div>
+<p style="padding-right: 270px;" align="center">
   <a href="https://twitter.com/KFI1196" target="_blank">
     <img src="https://img.shields.io/twitter/follow/KFI1196?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
   </a>
