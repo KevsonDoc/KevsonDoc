@@ -33,6 +33,6 @@
 - - -
 
 <p style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="400" src="https://metrics.lecoq.io/KevsonDoc" alt="Github Metrics">
-  <img height="400" style="padding-left: 100px;" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevsonDoc&layout=compact&theme=tokyonight&langs_count=10&bg_color=151515">
+  <img height="250" src="https://metrics.lecoq.io/KevsonDoc" alt="Github Metrics">
+  <img height="250" style="padding-left: 100px;" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevsonDoc&layout=compact&theme=tokyonight&langs_count=10&bg_color=151515">
 </p>
