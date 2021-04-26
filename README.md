@@ -5,6 +5,10 @@
   I’m Kevson Filipe, I’m glad you’re here. I live in Brasilia, Brazil. I am a software developer, software developer, computer technician and admirer of the best of Science and Technology. I am present in the projects HospTup, Kowworking and I am part of the Underground Devs initiative.
 </p>
 
+<p>
+Below are some repositories that I consider crucial in my learning, if you want to see more of them go to the repositories tab there are projects that I developed during a boredom crisis and quick codes that you can use quickly
+</p>
+
 <p style="padding-right: 270px;">
   If you want to talk about science, technology, entrepreneurship, series, films and music these are my social networks
 </p>
