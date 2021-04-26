@@ -1,6 +1,6 @@
 # Hello There!
 <div>
-<img align='right' src='./doctor_dance.gif' width="200" height="200" style="object-fit: cover;">
+<img align='right' src='./doctor_dance.gif' width="300" height="100" style="object-fit: cover;">
 <p style="padding-right: 270px;">
   I’m Kevson Filipe, I’m glad you’re here. I live in Brasilia, Brazil. I am a software developer, software developer, computer technician and admirer of the best of Science and Technology. I am present in the projects HospTup, Kowworking and I am part of the Underground Devs initiative.
 </p>
