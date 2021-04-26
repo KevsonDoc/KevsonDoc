@@ -9,7 +9,7 @@
   If you want to talk about science, technology, entrepreneurship, series, films and music these are my social networks
 </p>
 <div>
-<p style="padding-right: 270px;" align="center">
+<p style="padding-right: 270px;">
   <a href="https://twitter.com/KFI1196" target="_blank">
     <img src="https://img.shields.io/twitter/follow/KFI1196?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
   </a>
