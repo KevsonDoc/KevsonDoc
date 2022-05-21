@@ -1,20 +1,19 @@
 # Hello There!
 
-<p style="display: flex;" align="center" display="flex" flex-direction="row">
-  <img align="right" src="./doctor_dance.gif" width="330" height="200">
-  <p style="padding-right: 270px;" >
+<p align="center">
+  <img align="center" src="./doctor_dance.gif" width="330" height="200">
+  <p >
     I'm Kevson Filipe, I'm glad you're here. I live in Brasilia, Brazil. I am a software developer, computer technician and admirer of the best of Science and Technology. I am present in the HospTup, Kowworking projects and I am part of the Underground Devs initiative.
   </p>
   <p>
     Below are some repositories that I consider crucial in my learning, if you want to see more of them, go to the repositories tab there are projects I developed during a crisis of boredom and quick codes for reuse.
   </p>
-
-  <p style="padding-right: 270px;">
+  <p>
     If you want to talk about science, technology, entrepreneurship, series, movies and music these are my social networks.
   </p>
 <p>
 
-<p style="padding-right: 270px;">
+<p align="center">
   <a href="https://twitter.com/KFI1196" target="_blank">
     <img src="https://img.shields.io/twitter/follow/KFI1196?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
   </a>
