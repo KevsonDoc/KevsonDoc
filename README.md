@@ -1,7 +1,8 @@
 # Hello There!
+
 <div>
   <img align='right' src='./doctor_dance.gif' width="330" height="200">
-  <p style="padding-right: 270px;">
+  <p style="padding-right: 270px;" >
     I'm Kevson Filipe, I'm glad you're here. I live in Brasilia, Brazil. I am a software developer, computer technician and admirer of the best of Science and Technology. I am present in the HospTup, Kowworking projects and I am part of the Underground Devs initiative.
   </p>
   <p>
@@ -13,7 +14,7 @@
   </p>
 <div>
 
-< style="padding-right: 270px;">
+<p style="padding-right: 270px;">
   <a href="https://twitter.com/KFI1196" target="_blank">
     <img src="https://img.shields.io/twitter/follow/KFI1196?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
   </a>
@@ -36,7 +37,7 @@
 
 - - -
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="250" style="padding-left: 100px;" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevsonDoc&layout=compact&theme=tokyonight&langs_count=10&bg_color=151515">
-  <img height="300" src="https://metrics.lecoq.io/KevsonDoc" alt="Github Metrics">
+<div align="center">
+  <img height="250px" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevsonDoc&layout=compact&theme=tokyonight&langs_count=10&bg_color=151515">
+  <img height="250px" src="https://metrics.lecoq.io/KevsonDoc" alt="Github Metrics">
 </div>
