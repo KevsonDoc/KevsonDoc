@@ -1,6 +1,6 @@
 # Hello There!
 
-<p style="display: block;" align="center" display="flex" flex-direction="row">
+<p style="display: flex;" align="center" display="flex" flex-direction="row">
   <img align="right" src="./doctor_dance.gif" width="330" height="200">
   <p style="padding-right: 270px;" >
     I'm Kevson Filipe, I'm glad you're here. I live in Brasilia, Brazil. I am a software developer, computer technician and admirer of the best of Science and Technology. I am present in the HospTup, Kowworking projects and I am part of the Underground Devs initiative.
