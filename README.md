@@ -14,8 +14,8 @@
 <p>
 
 <p align="center">
-  <a href="https://twitter.com/KFI1196" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/KFI1196?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
+  <a href="https://twitter.com/KFI08" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/KFI08?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
   </a>
   <a href="https://github.com/KevsonDoc" target="_blank">
     <img src="https://img.shields.io/github/followers/KevsonDoc?color=%23000&label=KevsonDoc&logo=github&logoColor=%23000&style=for-the-badge">
