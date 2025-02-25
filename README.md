@@ -14,9 +14,6 @@
 <p>
 
 <p align="center">
-  <a href="https://twitter.com/KFI08" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/KFI08?color=%2300acee&logo=twitter&logoColor=%23FFF&style=for-the-badge">
-  </a>
   <a href="https://github.com/KevsonDoc" target="_blank">
     <img src="https://img.shields.io/github/followers/KevsonDoc?color=%23000&label=KevsonDoc&logo=github&logoColor=%23000&style=for-the-badge">
   </a>
@@ -28,9 +25,6 @@
   </a>
   <a href="mailto:kevsonfilipesantos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-kevsonfilipesantos@gmail.com-c14438?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevsonfilipesantos@gmail.com">
-  </a>
-  <a href="https://www.instagram.com/kevsonfilipe/" target="_blank">
-    <img src="https://img.shields.io/badge/-kevsonfilipe-c14438?&style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
