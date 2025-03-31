@@ -7,7 +7,7 @@
   Hi, I'm Kevson Filipe! Thanks for visiting my profile. I'm based in Brasilia, Brazil.
 </p>
 <p>
-  I am a software developer and computer technician with a passion for Science and Technology. I'm actively involved in the HospTup and Coworking projects and am also part of the Underground Devs initiative.
+  I am a software developer and computer technician with a passion for Science and Technology. I'm actively involved in the Underground Devs initiative.
 </p>
 <p>
   Below, you'll find some repositories that I consider crucial to my learning journey. If you'd like to see more, please head over to the repositories tab. There you'll find other projects I've developed (some during moments of inspiration or boredom!) and useful code snippets for reuse.
