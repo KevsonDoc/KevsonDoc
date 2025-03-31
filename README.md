@@ -2,16 +2,19 @@
 
 <p align="center">
   <img align="center" src="./doctor_dance.gif" width="330" height="200">
-  <p >
-    I'm Kevson Filipe, I'm glad you're here. I live in Brasilia, Brazil. I am a software developer, computer technician and admirer of the best of Science and Technology. I am present in the HospTup, Kowworking projects and I am part of the Underground Devs initiative.
-  </p>
-  <p>
-    Below are some repositories that I consider crucial in my learning, if you want to see more of them, go to the repositories tab there are projects I developed during a crisis of boredom and quick codes for reuse.
-  </p>
-  <p>
-    If you want to talk about science, technology, entrepreneurship, series, movies and music these are my social networks.
-  </p>
+</p>
 <p>
+  Hi, I'm Kevson Filipe! Thanks for visiting my profile. I'm based in Brasilia, Brazil.
+</p>
+<p>
+  I am a software developer and computer technician with a passion for Science and Technology. I'm actively involved in the HospTup and Coworking projects and am also part of the Underground Devs initiative.
+</p>
+<p>
+  Below, you'll find some repositories that I consider crucial to my learning journey. If you'd like to see more, please head over to the repositories tab. There you'll find other projects I've developed (some during moments of inspiration or boredom!) and useful code snippets for reuse.
+</p>
+<p>
+  Feel free to connect with me via my social networks if you'd like to chat about science, technology, entrepreneurship, TV series, movies, or music.
+</p>
 
 <p align="center">
   <a href="https://github.com/KevsonDoc" target="_blank">
